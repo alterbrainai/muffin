@@ -40,3 +40,6 @@ A visual financial research platform for all
   - [idefics2](https://huggingface.co/blog/idefics2)
   - [lmstudio](lmstudio.ai)
   - [openwebUI](https://github.com/open-webui/open-webui)
+  - [dify](https://github.com/langgenius/dify)
+- Observability
+  - [Apache Superset](https://superset.apache.org)
