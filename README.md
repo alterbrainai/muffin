@@ -1,6 +1,11 @@
 # muffin
 A visual financial research platform for all
 
+## Progress
+- First drafts of app UX
+  - [penpot](https://design.penpot.app/#/dashboard/team/c0ee57fd-603e-804a-8004-c9fae7445eff/projects)
+
+
 ## Resources
 - Kanban: [plane](https://plane.so/)
 - Git: [gitea](https://about.gitea.com)
