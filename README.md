@@ -8,7 +8,10 @@ A visual financial research platform for all
 
 ## Resources
 - Kanban: [plane](https://plane.so/)
-- Git: [gitea](https://about.gitea.com)
+- Git:
+  - [gitea](https://about.gitea.com)
+  - [gitlab](gitlab.com)
+- protocol buffer: [grpc](grpc.io)
 - API:
   - [bruno](https://github.com/usebruno/bruno)
   - [hoppscotch](https://github.com/hoppscotch/hoppscotch)
