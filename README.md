@@ -39,3 +39,4 @@ A visual financial research platform for all
   - [wit.ai](wit.ai)
   - [idefics2](https://huggingface.co/blog/idefics2)
   - [lmstudio](lmstudio.ai)
+  - [openwebUI](https://github.com/open-webui/open-webui)
