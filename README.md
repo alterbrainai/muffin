@@ -23,9 +23,13 @@ A visual financial research platform for all
   - [mlflow](https://mlflow.org)
   - [airflow](https://airflow.apache.org)
   - [hamilton](https://github.com/dagworks-inc/hamilton)
-- security:
+- security/authentication
   - [keycloak](https://www.keycloak.org)
   - [openFGA](https://openfga.dev)
+- Code security
+  - [Zap](zaproxy.org)
+  - [bandit](github.com/PyCQA/bandit)
+  - [clair](github.com/quay/clair)
 - UX design & wireframing
   - [polotno](https://studio.polotno.com)
   - [diagrams](https://app.diagrams.net)
