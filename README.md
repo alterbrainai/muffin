@@ -2,6 +2,8 @@
 A visual financial research platform for all
 
 ## Progress
+- Plane Kanban
+  - [Plane.so](https://app.plane.so/dataground/projects/e01c4fe7-fcc7-42c5-a5c9-ebe53c6974bd/issues/)
 - First drafts of app UX
   - [penpot](https://design.penpot.app/#/dashboard/team/c0ee57fd-603e-804a-8004-c9fae7445eff/projects)
 
