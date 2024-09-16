@@ -1,0 +1,25 @@
+# backend/pyproject.toml
+
+[build-system]
+requires = ["setuptools", "wheels"]
+build-backend = ["setuptools.build_meta"]
+
+[project]
+name = "muffin_api"
+version = "0.0.1"
+description = "FastAPI based muffin API"
+authors = [{name = "Deepak", email = "deepak.id1988@gmail.com"}]
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "python-dotenv",
+    "sqlalchemy",
+    "databases[postgresql]",
+    "alembic",
+    "psycopg2-binary",
+    "passlib[bcrypt]",
+    "python-jose[cryptography]",
+    "pydantic",
+    "openfga",
+    "httpx",
+    ]
