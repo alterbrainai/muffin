@@ -1,0 +1,10 @@
+# backend/.dockerignore
+_pycache__/
+*.py[cod]
+.env
+.git/
+.gitignore
+.vscode/
+.idea/
+tests/
+alembic/

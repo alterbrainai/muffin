@@ -1,0 +1,37 @@
+# backend/.gitignore
+
+# python cache and artifacts
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.env
+.env
+
+# virtual environment
+venv/
+env/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Alembic
+alembic/versions/*.pyc
+alembic/versions/*.py
+
+# Test cache and artifacts
+pytest_cache/
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+
