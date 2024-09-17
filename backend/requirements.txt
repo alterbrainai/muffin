@@ -8,7 +8,7 @@ psycopg2-binary
 passlib[bcrypt]
 python-jose[cryptography]
 pydantic
-openfga
+openfga-sdk
 httpx
 pytest
 pytest-asyncio
