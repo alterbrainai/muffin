@@ -22,3 +22,16 @@ class Token(BaseModel):
 class TokenData(BaseModel):
     username: str = None
 
+class MessageResponse(BaseModel):
+    message: str
+
+class UserRegister(BaseModel):
+    username: str
+    password: str
+
+class UserResponse(BaseModel):
+    id: int
+    username: str
+
+    class Config:
+        orm_mode = True

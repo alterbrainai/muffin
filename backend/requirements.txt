@@ -4,10 +4,12 @@ python-dotenv
 sqlalchemy
 databases[postgresql]
 alembic
-psycopg2-binary
-passlib[bcrypt]
+psycopg2-binary>=2.9.5
+passlib[bcrypt]==1.7.4
+bcrypt==3.2.0
 python-jose[cryptography]
-pydantic
+pydantic>=2.0.0
+pydantic-settings
 openfga-sdk
 httpx
 pytest
