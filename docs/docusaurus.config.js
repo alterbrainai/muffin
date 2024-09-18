@@ -13,6 +13,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'alterbrainai', // Usually your GitHub org/user name.
   projectName: 'muffin', // Usually your repo name.
+  // deploymentBranch: 'gh-pages', // Usually your branch where docs will be deployed
   trailingSlash: false,
 
   presets: [
@@ -23,7 +24,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Route for the docs, defaults to 'docs'
-          routeBasePath: '/',
+          routeBasePath: 'docs',
           // Please change this to your repo.
           editUrl: 'https://github.com/alterbrainai/muffin/edit/main/docs/',
         },
@@ -58,7 +59,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/alterbrainai/muffin',
+            href: 'https://github.com/alterbrainai/muffin/docs',
             label: 'GitHub',
             position: 'right',
           },
