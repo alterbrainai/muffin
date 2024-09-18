@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[290],{7273:s=>{s.exports=JSON.parse('{"allTagsPath":"/muffin/docs/blog/tags","slug":"/muffin/docs/blog/tags/facebook","name":"facebook","count":1,"permalink":"/muffin/docs/blog/tags/facebook"}')}}]);
