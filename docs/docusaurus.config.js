@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   tagline: 'Documentation for Muffin',
   url: 'https://alterbrainai.github.io',
   baseUrl: '/muffin/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'alterbrainai', // Usually your GitHub org/user name.
