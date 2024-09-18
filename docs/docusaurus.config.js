@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Muffin - A Research App',
   tagline: 'Documentation for Muffin',
   url: 'https://alterbrainai.github.io',
-  baseUrl: '/muffin/docs/',
+  baseUrl: '/muffin/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -24,7 +24,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Route for the docs, defaults to 'docs'
-          routeBasePath: '/',
+          routeBasePath: 'docs',
           // Please change this to your repo.
           editUrl: 'https://github.com/alterbrainai/muffin/edit/main/docs/',
         },
@@ -59,7 +59,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/alterbrainai/muffin',
+            href: 'https://github.com/alterbrainai/muffin/docs',
             label: 'GitHub',
             position: 'right',
           },

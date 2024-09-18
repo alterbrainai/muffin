@@ -2,10 +2,10 @@
   "name": "docs",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://alterbrainai.github.io/muffin/docs",
+  "homepage": "https://alterbrainai.github.io/muffin/",
   "repository":{
     "type": "git",
-    "url": "git://github.com/alterbrainai/muffin.git"
+    "url": "https://github.com/alterbrainai/muffin.git"
   },
   "scripts": {
     "docusaurus": "docusaurus",
