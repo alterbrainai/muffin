@@ -1,0 +1,11 @@
+# frontend/.dockerignore
+
+node_modules
+.next
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+.env.local
+.vscode
+.idea

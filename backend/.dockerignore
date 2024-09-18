@@ -1,0 +1,13 @@
+# backend/.dockerignore
+
+_pycache__/
+*.pyc
+*.py[cod]
+.env
+.venv
+.git/
+.gitignore
+# Dockerfile
+# docker-compose.yml
+.vscode/
+.idea/
