@@ -1,2 +1,4 @@
 node_modules
 venv
+.webui_secret_key
+.gitignore
